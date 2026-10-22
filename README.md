@@ -25,6 +25,6 @@ See [Project Overview](docs/project-overview.md) for project scope, architecture
 ## Documentation
 
 - [Project Overview](docs/project-overview.md)
-- Architecture *(planned)*
-- Technical Feasibility *(in progress)*
-- Decision Log *(planned)*
+- [Architecture](docs/architecture.md) *(planned)*
+- [Technical Feasibility](docs/technical-feasibility.md) *(in progress)*
+- [Decision Log](docs/decisions.md) *(planned)*
